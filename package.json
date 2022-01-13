@@ -1,0 +1,25 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": "git+https://github.com/EleonaS/node-hw1.git",
+  "author": "ELENA <evsysoyeva@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EleonaS/node-hw1/issues"
+  },
+  "homepage": "https://github.com/EleonaS/node-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "nanoid": "^3.1.32"
+  }
+}
