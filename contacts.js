@@ -1,4 +1,6 @@
-const fs = require("fs/promises");
+//1вариант
+
+/*const fs = require("fs/promises");
 const path = require("path");
 const {nanoid} = require("nanoid");
 
@@ -47,3 +49,5 @@ module.exports = {
   addContact,
   removeContact,
 };
+
+*/
